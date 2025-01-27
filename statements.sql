@@ -11,11 +11,11 @@
 
 
 -- Ejercicio 4: Contar cuántos usuarios saben JavaScript.
--- Tu respuesta aquí
+   SELECT COUNT(*) FROM usuarios_lenguajes WHERE lenguaje LIKE 'JavaScript';
 
 
 -- Ejercicio 5 OPCION 2: Seleccionar los usuarios que tienen 28 años. 
--- Tu respuesta aquí
+   SELECT * FROM usuarios_lenguajes WHERE edad = 28;
 
 
 -- Ejercicio 6: Encontrar el usuario con el email 'juan.gomez@example.com'.

@@ -8,3 +8,7 @@
      [Ver imagen](imagenes/ejercicio2.png)
 5.  [Ejercicio 3: Seleccionar los usuarios mayores de 30 años](statements.sql#ejercicio-3) -
      [Ver imagen](imagenes/ejercicio3.png)
+6.  [Ejercicio 4: Contar cuántos usuarios saben JavaScript](statements.sql#ejercicio-4) -
+     [Ver imagen](imagenes/ejercicio4.png)
+7.  [Ejercicio 5 OPCION 2: Seleccionar los usuarios que tienen 28 años](statements.sql#ejercicio-4) -
+     [Ver imagen](imagenes/ejercicio5.png)
