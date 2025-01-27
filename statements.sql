@@ -39,19 +39,20 @@
 
 
 -- Ejercicio 11: Seleccionar los usuarios y sus edades ordenados por edad de forma descendente.
--- Tu respuesta aquí
+   SELECT nombre, edad FROM usuarios_lenguajes ORDER BY edad DESC;
 
 
 -- Ejercicio 12: Contar cuántos usuarios tienen más de 28 años.
--- Tu respuesta aquí
+   SELECT COUNT(*) FROM usuarios_lenguajes WHERE edad > 28;
 
 
 -- Ejercicio 13: Seleccionar los usuarios cuyo apellido contiene la letra 'a'.
--- Tu respuesta aquí
+   SELECT nombre, apellido FROM usuarios_lenguajes WHERE apellido LIKE '%a%';
 
 
 -- Ejercicio 14: Encontrar el lenguaje más popular entre los usuarios menores de 30 años.
--- Tu respuesta aquí
+   SELECT lenguaje, COUNT(*) AS cantidad FROM usuarios_lenguajes WHERE edad < 30 GROUP BY lenguaje ORDER BY cantidad DESC
+     LIMIT 1;
 
 
 -- Ejercicio 15: Seleccionar el usuario  mayor de 25 y que sepa el lenguaje 'TypeScript'.
