@@ -12,3 +12,6 @@
      [Ver imagen](imagenes/ejercicio4.png)
 7.  [Ejercicio 5 OPCION 2: Seleccionar los usuarios que tienen 28 años](statements.sql#ejercicio-4) -
      [Ver imagen](imagenes/ejercicio5.png)
+
+
+## Resto de imágenes de los ejercicios en la carpeta imagenes
