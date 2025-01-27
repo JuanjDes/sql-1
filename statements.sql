@@ -3,11 +3,11 @@
 
 
 -- Ejercicio 2: Contar cuántos usuarios hay en total.
--- Tu respuesta aquí
+   SELECT COUNT(*) FROM usuarios_lenguajes;
 
 
 -- Ejercicio 3: Seleccionar los usuarios mayores de 30 años.
--- Tu respuesta aquí
+   SELECT * FROM usuarios_lenguajes WHERE edad > 30;
 
 
 -- Ejercicio 4: Contar cuántos usuarios saben JavaScript.

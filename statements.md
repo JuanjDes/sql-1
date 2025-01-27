@@ -4,3 +4,7 @@
 2.  [Insertar datos en la tabla](https://github.com/JuanjDes/sql-1/blob/main/imagenes/a%C3%B1ado_datos_a_tabla.png)
 3.  [Ejercicio 1: Seleccionar todos los usuarios y sus lenguajes asociados](statements.sql#ejercicio-1) -
      [Ver imagen](imagenes/ejercicio1.png)
+4.  [Ejercicio 2: Contar cuántos usuarios hay en total](statements.sql#ejercicio-2) -
+     [Ver imagen](imagenes/ejercicio2.png)
+5.  [Ejercicio 3: Seleccionar los usuarios mayores de 30 años](statements.sql#ejercicio-3) -
+     [Ver imagen](imagenes/ejercicio3.png)
