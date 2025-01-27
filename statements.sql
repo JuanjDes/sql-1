@@ -1,5 +1,5 @@
 -- Ejercicio 1: Seleccionar todos los usuarios y sus lenguajes asociados.
--- Tu respuesta aquí
+   SELECT nombre, apellido, lenguaje FROM usuarios_lenguajes;
 
 
 -- Ejercicio 2: Contar cuántos usuarios hay en total.
