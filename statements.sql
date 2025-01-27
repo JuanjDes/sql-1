@@ -1,6 +1,3 @@
--- Crear tabla usuario_lenguajes:
--- https://github.com/JuanjDes/sql-1/blob/main/imagenes/crea_tabla_usuarios_lenguajes.png
-
 -- Ejercicio 1: Seleccionar todos los usuarios y sus lenguajes asociados.
 -- Tu respuesta aquí
 
